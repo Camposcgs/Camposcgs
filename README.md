@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá galera, sou Monique aluna do Francisco Cristiano 👋
 
 <!--
 **Camposcgs/Camposcgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
